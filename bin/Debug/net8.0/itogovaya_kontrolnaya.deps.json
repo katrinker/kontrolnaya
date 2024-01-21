@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "itogovaya_kontrolnaya/1.0.0": {
+        "runtime": {
+          "itogovaya_kontrolnaya.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "itogovaya_kontrolnaya/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

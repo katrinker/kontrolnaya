@@ -1,0 +1,14 @@
+C:\Users\Катерина\Desktop\обучение\C#\itogovaya_kontrolnaya\bin\Debug\net8.0\itogovaya_kontrolnaya.exe
+C:\Users\Катерина\Desktop\обучение\C#\itogovaya_kontrolnaya\bin\Debug\net8.0\itogovaya_kontrolnaya.deps.json
+C:\Users\Катерина\Desktop\обучение\C#\itogovaya_kontrolnaya\bin\Debug\net8.0\itogovaya_kontrolnaya.runtimeconfig.json
+C:\Users\Катерина\Desktop\обучение\C#\itogovaya_kontrolnaya\bin\Debug\net8.0\itogovaya_kontrolnaya.dll
+C:\Users\Катерина\Desktop\обучение\C#\itogovaya_kontrolnaya\bin\Debug\net8.0\itogovaya_kontrolnaya.pdb
+C:\Users\Катерина\Desktop\обучение\C#\itogovaya_kontrolnaya\obj\Debug\net8.0\itogovaya_kontrolnaya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Катерина\Desktop\обучение\C#\itogovaya_kontrolnaya\obj\Debug\net8.0\itogovaya_kontrolnaya.AssemblyInfoInputs.cache
+C:\Users\Катерина\Desktop\обучение\C#\itogovaya_kontrolnaya\obj\Debug\net8.0\itogovaya_kontrolnaya.AssemblyInfo.cs
+C:\Users\Катерина\Desktop\обучение\C#\itogovaya_kontrolnaya\obj\Debug\net8.0\itogovaya_kontrolnaya.csproj.CoreCompileInputs.cache
+C:\Users\Катерина\Desktop\обучение\C#\itogovaya_kontrolnaya\obj\Debug\net8.0\itogovaya_kontrolnaya.dll
+C:\Users\Катерина\Desktop\обучение\C#\itogovaya_kontrolnaya\obj\Debug\net8.0\refint\itogovaya_kontrolnaya.dll
+C:\Users\Катерина\Desktop\обучение\C#\itogovaya_kontrolnaya\obj\Debug\net8.0\itogovaya_kontrolnaya.pdb
+C:\Users\Катерина\Desktop\обучение\C#\itogovaya_kontrolnaya\obj\Debug\net8.0\itogovaya_kontrolnaya.genruntimeconfig.cache
+C:\Users\Катерина\Desktop\обучение\C#\itogovaya_kontrolnaya\obj\Debug\net8.0\ref\itogovaya_kontrolnaya.dll
